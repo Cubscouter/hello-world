@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T09:40:37.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="i96CZM_EyYx3WzlA-xCf" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T10:38:52.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="XeQughBUkQphqF0bw2kZ" version="15.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Day 1">
-    <mxGraphModel dx="3197" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -304,6 +304,9 @@
         <mxCell id="BwFLNCsfV4UgRV5UX88f-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1190" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-16" target="BwFLNCsfV4UgRV5UX88f-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BwFLNCsfV4UgRV5UX88f-16" value="&lt;span&gt;You go to the park and sit there for a few hours wondering if you did the right thing.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="1169" width="510" height="80" as="geometry" />
         </mxCell>
@@ -423,8 +426,57 @@
             <mxPoint x="2080" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BwFLNCsfV4UgRV5UX88f-47" value="Oh god. Oh mummy please! Please help me!&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2280" y="380" width="150" height="80" as="geometry" />
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-49" target="BwFLNCsfV4UgRV5UX88f-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2700" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2520" y="470" />
+              <mxPoint x="2520" y="40" />
+              <mxPoint x="2760" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-47" value="Oh god. &lt;br&gt;Oh mummy please! &lt;br&gt;Please help me!&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2300" y="335" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-49" value="Pull the trigger." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2310" y="460" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-47" target="BwFLNCsfV4UgRV5UX88f-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2370" y="500" as="targetPoint" />
+            <mxPoint x="2370" y="435.0000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-51" value="Wake up." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2760" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-52" target="BwFLNCsfV4UgRV5UX88f-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-190" y="1200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-50" y="1340" />
+              <mxPoint x="-50" y="1190" />
+              <mxPoint x="-371" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-52" target="BwFLNCsfV4UgRV5UX88f-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-52" value="Mewling&lt;br&gt;Attacks!" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="1300" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-56" value="Now you can date your gun" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-510" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-58" value="Date Mewling" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="455" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-59" value="Date Nathaniel at work" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-560" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
