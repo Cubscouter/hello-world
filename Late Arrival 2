@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T10:44:39.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="XbAGbL2UT2aFbjnmtBF5" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T10:45:54.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="uLk5gYZudVZcHYCo2yfZ" version="15.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Day 1">
-    <mxGraphModel dx="4498" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3685" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -509,17 +509,29 @@
         <mxCell id="BwFLNCsfV4UgRV5UX88f-67" value="What&#39;s your&lt;br&gt;&amp;nbsp;favorite food?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1180.5" y="300" width="139" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-75" target="BwFLNCsfV4UgRV5UX88f-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BwFLNCsfV4UgRV5UX88f-69" value="Oh lol! Neon Genesis&amp;nbsp;&lt;br&gt;Evangeloin, right?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2068" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFLNCsfV4UgRV5UX88f-70" value="Awesome! haha! I love hanging out and being funny with you.." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1860" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwFLNCsfV4UgRV5UX88f-71" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2040" y="590" width="80" height="80" as="geometry" />
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-71" value="Yes" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1970" y="610" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BwFLNCsfV4UgRV5UX88f-72" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2200" y="585" width="80" height="80" as="geometry" />
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-72" value="Oh ok." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2230" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-75" value="idk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2255" y="550" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-69" target="BwFLNCsfV4UgRV5UX88f-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2188" y="530" as="sourcePoint" />
+            <mxPoint x="2270" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
