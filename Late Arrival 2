@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T10:40:47.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="GtLAfVmyfxz3Zmxi4G6f" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T10:44:39.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="XbAGbL2UT2aFbjnmtBF5" version="15.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Day 1">
-    <mxGraphModel dx="2635" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4498" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -291,12 +291,12 @@
         <mxCell id="BwFLNCsfV4UgRV5UX88f-3" value="Daveyson chuckles and hopes to see you tomorrow." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365" y="770" width="70" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="BwFLNCsfV4UgRV5UX88f-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-9" target="BwFLNCsfV4UgRV5UX88f-13">
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-65" target="BwFLNCsfV4UgRV5UX88f-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1190" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1260" y="40" />
-              <mxPoint x="1260" y="180" />
+              <mxPoint x="1250" y="180" />
+              <mxPoint x="1250" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -313,8 +313,11 @@
         <mxCell id="BwFLNCsfV4UgRV5UX88f-9" value="&quot;How&#39;s the squid?&quot;&lt;br&gt;(it is really horrible)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1360" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BwFLNCsfV4UgRV5UX88f-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1190" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-13" target="BwFLNCsfV4UgRV5UX88f-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-13" value="&quot;I know right! Lol, just gonna stick to the Beef Noodle Soup next time..&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1190" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFLNCsfV4UgRV5UX88f-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-16" target="BwFLNCsfV4UgRV5UX88f-52">
           <mxGeometry relative="1" as="geometry" />
@@ -375,7 +378,7 @@
         <mxCell id="BwFLNCsfV4UgRV5UX88f-32" value="Yeah I guess." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1800" y="220" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BwFLNCsfV4UgRV5UX88f-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-42">
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;startArrow=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-42" target="BwFLNCsfV4UgRV5UX88f-70">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2010" y="420" as="targetPoint" />
           </mxGeometry>
@@ -385,7 +388,7 @@
             <mxPoint x="2270" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BwFLNCsfV4UgRV5UX88f-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-45">
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-45" target="BwFLNCsfV4UgRV5UX88f-69">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2120" y="480" as="targetPoint" />
           </mxGeometry>
@@ -482,7 +485,7 @@
           <mxGeometry x="210" y="1300" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BwFLNCsfV4UgRV5UX88f-56" value="Now you can date your gun" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-510" y="1169" width="120" height="60" as="geometry" />
+          <mxGeometry x="-890" y="1179" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BwFLNCsfV4UgRV5UX88f-58" value="Date Mewling" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="455" y="1300" width="120" height="60" as="geometry" />
@@ -492,6 +495,31 @@
         </mxCell>
         <mxCell id="BwFLNCsfV4UgRV5UX88f-63" value="Date Nathaniel at work" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-890" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-65" value="Mmm yeah it sucks&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1190" y="130" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BwFLNCsfV4UgRV5UX88f-9" target="BwFLNCsfV4UgRV5UX88f-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250.0000000000005" y="210" as="targetPoint" />
+            <mxPoint x="1360" y="40" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-67" value="What&#39;s your&lt;br&gt;&amp;nbsp;favorite food?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1180.5" y="300" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-69" value="Oh lol! Neon Genesis&amp;nbsp;&lt;br&gt;Evangeloin, right?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2068" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-70" value="Awesome! haha! I love hanging out and being funny with you.." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1860" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-71" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2040" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BwFLNCsfV4UgRV5UX88f-72" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2200" y="585" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
